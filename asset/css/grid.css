@@ -1,0 +1,11 @@
+
+.row{
+    width: 1170px;
+    padding: 0 15px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.row-f{
+    width: 100%;
+}
